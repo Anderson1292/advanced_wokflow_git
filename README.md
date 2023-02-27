@@ -1,2 +1,2 @@
-# advanced_wokflow_git
+# Git Flow
 Gitflow is an alternative Git branching model that consists of using feature branches and multiple parent branches. Compared to trunk-based development, Gitflow has more long-lived branches and larger commits. Under this model, developers create a feature branch and delay merging with the main trunk branch until the feature is complete. These long-lived feature branches require more collaboration to merge and have a higher risk of straying from the trunk branch. They can also introduce conflicting updates.
